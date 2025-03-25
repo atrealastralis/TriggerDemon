@@ -1,6 +1,6 @@
-# Trigger Deamon
+# Trigger Demon
 
-**Trigger Deamon** is a Python application built with PyQt6 to manage and monitor FiveM servers. It provides a user-friendly interface to track server statuses, manage triggers, and filter servers based on various criteria such as location, anti-cheat systems, and tags. The application supports both dark and light themes for a better user experience.
+**Trigger Demon** is a Python application built with PyQt6 to manage and monitor FiveM servers. It provides a user-friendly interface to track server statuses, manage triggers, and filter servers based on various criteria such as location, anti-cheat systems, and tags. The application supports both dark and light themes for a better user experience.
 
 ## Features
 - **Server Management**: Add, edit, and delete FiveM servers with ease.
@@ -29,9 +29,9 @@ Example:
 - flag-icons (CSS library for country flags, included in the project)
 
 ## Installation
-Follow these steps to set up and run **Trigger Deamon** on your system:
+Follow these steps to set up and run **Trigger Demon** on your system:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/atrealastralis/TriggerDeamon.git
-   cd TriggerDeamon
+   git clone https://github.com/atrealastralis/TriggerDemon.git
+   cd TriggerDemon
