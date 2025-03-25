@@ -14,9 +14,7 @@
 - **Context Menu**: Right-click servers for quick actions like connecting, copying details, or editing.
 
 ## Screenshots
-*(Optional: Add screenshots of your application here to showcase its interface. You can take screenshots, upload them to the repository, and link them here.)*
 
-Example:
 ![Main Window](screenshots/main_window.png)
 ![Add Server](screenshots/add_server.png)
 
