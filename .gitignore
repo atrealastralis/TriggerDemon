@@ -1,0 +1,28 @@
+# Python-specific ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+env/
+
+# Environment variables
+*.env
+
+# Project-specific ignores
+servers.json  # Contains server data, might include sensitive info
+icons/        # Auto-generated server icons
+
+# IDE-specific ignores
+.vscode/      # VS Code settings
+*.code-workspace
+
+# OS-specific ignores
+.DS_Store     # macOS
+Thumbs.db     # Windows
