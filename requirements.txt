@@ -1,0 +1,4 @@
+PyQt6
+qtawesome
+requests
+beautifulsoup4
